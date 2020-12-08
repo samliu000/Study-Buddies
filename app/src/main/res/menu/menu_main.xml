@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miAboutUs"
+        android:title="@string/about_us" />
+    <item
+        android:id="@+id/miTutorGuide"
+        android:title="@string/tutor_guide" />
+    <item
+        android:id="@+id/miBadgeRatings"
+        android:title="@string/badge_ratings" />
+    <item
+        android:id="@+id/miGuide"
+        android:title="@string/guide" />
+    <item
+        android:id="@+id/miSettings"
+        android:title="@string/settings" />
+    <item
+        android:id="@+id/miLogOut"
+        android:title="@string/log_out" />
+</menu>

@@ -1,5 +1,5 @@
 # Study Buddies
-**Studdy Buddies**, is an educational social mobile application that helps increase motivation in college students with social incentives and gratification. **Study Buddies** allows students to post their acheivements and academic content and chat with other students and tutors for academic support and teamwork.
+**Study Buddies**, is an educational social mobile application that helps increase motivation in college students with social incentives and gratification. **Study Buddies** allows students to post their acheivements and academic content and chat with other students and tutors for academic support and teamwork.
 
 ## User Stories
 - [ ] User can sign up for an account using Firebase authentication
